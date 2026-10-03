@@ -2,7 +2,7 @@
 ! Title: AdGuardFilterCombine-VN - Android (Without Tracking Protection)
 ! Description: Combined filter for AdGuard.
 ! License: GPL-3.0
-! Expires: 6 hours
+! Expires: 12 hours
 !
 ||affectionatestorage.com^
 ||stackup-ai.com^
