@@ -25,8 +25,3 @@
 | Target | Subscription |
 |---|---|
 | AdGuard Home / local DNS filtering | [**Subscribe**](https://raw.githubusercontent.com/NacFara/AdGuardFilterCombine-VN/main/dns/AdGuardDNSFilterCombine.txt) |
-
-> [!IMPORTANT]
-> Add Android/Windows URLs as **Trusted custom filters**. Use the DNS URL for AdGuard Home or local DNS filtering in an AdGuard app. Some rules depend on platform/client settings.
-
-> Hosted AdGuard DNS has custom-list size limits; this large list is not intended for its standard plans.
